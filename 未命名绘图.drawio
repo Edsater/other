@@ -1,1 +1,90 @@
-<mxfile host="app.diagrams.net" modified="2022-02-14T06:18:48.841Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.82 Safari/537.36" version="16.5.3" etag="zQ-fe_uvg0zYW_HkUkzS" type="github"><diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">7VhZc9MwEP41Hp5gfBQnecRp0wKhU2ihw6NiK7aI7DWynINfzyqWYzsOOYD0yDQv0a43K2m/b4/YcPrx/FKQNPoEAeWGbQZzwzk3bNuybQe/lGZRaLq9bqEIBQu0UaW4Zb+oVppam7OAZg1DCcAlS5tKH5KE+rKhI0LArGk2Bt7cNSUhbSlufcLb2nsWyEjfwu5U+ivKwqjc2XJ7xZOYlMb6JllEApjVVM6F4fQFgCxW8bxPuQpeGZf794t7Ppy4lx8+Zz/JV+/j3fW314WzwSE/WV1B0ET+X9d24XpKeK7jpe8qF2UABeRJQJUT03C8SMYclxYuf1ApFxpwkktAFQgZQQgJ4UOAVNuNIZHazFIyTYJ3CliURxz8SaEaMM71Hihp+y5KmRQwWWGnHKyAUMacjCj3iD8JlwftAweBjxJIqHIVIBn0XarDXVRab8/YagwyyIVPt9jpbJFEhHSbP7ewU+er8VQjd0khplIs0EBQTiSbNslMdE6EK7sKd1xo6A+ggdOiwZDEqcp6oFnySuJqBmKyhRsKl1nEJL1NyTJAMywnTb7UeYBX9UJOskyjuAPkw0CaUiHpfGtYy6euzu2yuGlxVlUKq0z/qFYlzswjAXHWAuI7Fs+XlPyXlHT3TMmyY+3MSU2Wkhh7p6j2dAMskTUTGI8zPNg6dVYb/j2b3rbYdA0tMu3G41nT7ZHI1DmMS9aT55L7hxbhcgyDNxK4CtUq5XkYIlnQXWI4g3btiiAe5dnudtHAWDFoQGLGVbyuKJ9SyXyyoakQzkLc99xHuKnYTB7ckiUhSm4l3S3JivX3iM2m02w2K7nebcwN3aZ7rG7TaWF6g+gV0NkmX+J7Yh3fsddA6D12y+/uU6SfdQl+8I5fVtPdLd/as0xr9phvHPw0CPT0p4DeXjPlyxhwHIbZpzYIlCes8cnL+ag9CYxykSwHAcjlyySwbRKwNzWhB50EykJYA/ULTQlDMM3hKc4B6//8z5zHngPKStGEgKuY2maRYSeGwfos5ljHwwDF6k1tUQqr993OxW8=</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-02-14T07:16:50.816Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.82 Safari/537.36" etag="ln_SB6h9i3M09WQyxkja" version="16.5.3" type="github">
+  <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
+    <mxGraphModel dx="3000" dy="973" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#F1FAEE" math="0" shadow="0">
+      <root>
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
+        <mxCell id="g67Yw9Pypv5ZU0-nCZ06-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Lucida Console;fontSize=15;entryX=0;entryY=0.5;entryDx=0;entryDy=0;labelBackgroundColor=#F1FAEE;strokeColor=#457B9D;fontColor=#1D3557;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="g67Yw9Pypv5ZU0-nCZ06-2" target="g67Yw9Pypv5ZU0-nCZ06-26">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-620" y="335" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="g67Yw9Pypv5ZU0-nCZ06-2" value="&lt;span&gt;Test&lt;br&gt;for stationarity of series&lt;/span&gt;(ADF)&lt;span&gt;&lt;br&gt;&lt;/span&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;fontFamily=Lucida Console;fontSize=15;fillColor=#A8DADC;strokeColor=#457B9D;fontColor=#1D3557;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-970" y="280" width="240" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="g67Yw9Pypv5ZU0-nCZ06-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Lucida Console;fontSize=15;labelBackgroundColor=#F1FAEE;strokeColor=#457B9D;fontColor=#1D3557;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="g67Yw9Pypv5ZU0-nCZ06-4" target="g67Yw9Pypv5ZU0-nCZ06-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="g67Yw9Pypv5ZU0-nCZ06-4" value="Start" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Lucida Console;fontSize=15;strokeWidth=2;fillColor=#A8DADC;strokeColor=#457B9D;fontColor=#1D3557;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-946.5" y="100" width="193" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="g67Yw9Pypv5ZU0-nCZ06-20" value="" style="edgeStyle=segmentEdgeStyle;endArrow=classic;html=1;rounded=0;fontFamily=Lucida Console;fontSize=15;exitX=0.5;exitY=0;exitDx=0;exitDy=0;labelBackgroundColor=#F1FAEE;strokeColor=#457B9D;fontColor=#1D3557;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="g67Yw9Pypv5ZU0-nCZ06-26">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-510" y="230" as="sourcePoint" />
+            <mxPoint x="-850" y="230" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-493" y="230" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="g67Yw9Pypv5ZU0-nCZ06-23" value="No" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=15;fontFamily=Lucida Console;fontColor=#1D3557;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-680" y="320" width="30" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="g67Yw9Pypv5ZU0-nCZ06-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Lucida Console;fontSize=15;labelBackgroundColor=#F1FAEE;strokeColor=#457B9D;fontColor=#1D3557;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="g67Yw9Pypv5ZU0-nCZ06-25" target="g67Yw9Pypv5ZU0-nCZ06-29">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="g67Yw9Pypv5ZU0-nCZ06-25" value="Draw the autocorrelation&lt;br&gt;and partial&lt;br&gt;autocorrelation&lt;br&gt;diagram" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Lucida Console;fontSize=15;strokeWidth=2;fillColor=#A8DADC;strokeColor=#457B9D;fontColor=#1D3557;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-1300" y="480" width="193" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="g67Yw9Pypv5ZU0-nCZ06-26" value="Differentiate the current series,&lt;br&gt;namely,increasing d" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Lucida Console;fontSize=15;strokeWidth=2;fillColor=#A8DADC;strokeColor=#457B9D;fontColor=#1D3557;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-590" y="295" width="193" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="g67Yw9Pypv5ZU0-nCZ06-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Lucida Console;fontSize=15;labelBackgroundColor=#F1FAEE;strokeColor=#457B9D;fontColor=#1D3557;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="g67Yw9Pypv5ZU0-nCZ06-29" target="g67Yw9Pypv5ZU0-nCZ06-32">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="g67Yw9Pypv5ZU0-nCZ06-40" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Lucida Console;fontSize=15;labelBackgroundColor=#F1FAEE;strokeColor=#457B9D;fontColor=#1D3557;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="g67Yw9Pypv5ZU0-nCZ06-29" target="g67Yw9Pypv5ZU0-nCZ06-39">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="g67Yw9Pypv5ZU0-nCZ06-29" value="Choose the best possible combinations of p and q" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Lucida Console;fontSize=15;strokeWidth=2;fillColor=#A8DADC;strokeColor=#457B9D;fontColor=#1D3557;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-946.5" y="480" width="193" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="g67Yw9Pypv5ZU0-nCZ06-30" value="" style="edgeStyle=segmentEdgeStyle;endArrow=classic;html=1;rounded=0;fontFamily=Lucida Console;fontSize=15;entryX=0.47;entryY=-0.004;entryDx=0;entryDy=0;entryPerimeter=0;labelBackgroundColor=#F1FAEE;strokeColor=#457B9D;fontColor=#1D3557;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" target="g67Yw9Pypv5ZU0-nCZ06-25">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-970" y="340" as="sourcePoint" />
+            <mxPoint x="-1130" y="340" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="g67Yw9Pypv5ZU0-nCZ06-31" value="Yes" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=15;fontFamily=Lucida Console;fontColor=#1D3557;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-1060" y="320" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="g67Yw9Pypv5ZU0-nCZ06-32" value="Determine the values of p and q according to the BIC minimum principle" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Lucida Console;fontSize=15;strokeWidth=2;fillColor=#A8DADC;strokeColor=#457B9D;fontColor=#1D3557;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-590" y="480" width="193" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="g67Yw9Pypv5ZU0-nCZ06-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontFamily=Lucida Console;fontSize=15;labelBackgroundColor=#F1FAEE;strokeColor=#457B9D;fontColor=#1D3557;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="g67Yw9Pypv5ZU0-nCZ06-39" target="g67Yw9Pypv5ZU0-nCZ06-32">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="g67Yw9Pypv5ZU0-nCZ06-47" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Lucida Console;fontSize=15;labelBackgroundColor=#F1FAEE;strokeColor=#457B9D;fontColor=#1D3557;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="g67Yw9Pypv5ZU0-nCZ06-39" target="g67Yw9Pypv5ZU0-nCZ06-46">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="g67Yw9Pypv5ZU0-nCZ06-39" value="Estimate model&lt;br&gt;&amp;nbsp;parameters and perform a white noise test&lt;span&gt;&lt;br&gt;&lt;/span&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;fontFamily=Lucida Console;fontSize=15;fillColor=#A8DADC;strokeColor=#457B9D;fontColor=#1D3557;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-970" y="650" width="240" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="g67Yw9Pypv5ZU0-nCZ06-42" value="p &amp;lt; 0.05" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=15;fontFamily=Lucida Console;fontColor=#1D3557;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-660" y="690" width="90" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="g67Yw9Pypv5ZU0-nCZ06-49" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Lucida Console;fontSize=15;labelBackgroundColor=#F1FAEE;strokeColor=#457B9D;fontColor=#1D3557;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="g67Yw9Pypv5ZU0-nCZ06-46" target="g67Yw9Pypv5ZU0-nCZ06-48">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="g67Yw9Pypv5ZU0-nCZ06-46" value="Get a suitable ARIMA (p,d,q) model to make predictions on the data" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Lucida Console;fontSize=15;strokeWidth=2;fillColor=#A8DADC;strokeColor=#457B9D;fontColor=#1D3557;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-946.5" y="850" width="193" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="g67Yw9Pypv5ZU0-nCZ06-48" value="Finish" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Lucida Console;fontSize=15;strokeWidth=2;fillColor=#A8DADC;strokeColor=#457B9D;fontColor=#1D3557;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-1300" y="850" width="193" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="g67Yw9Pypv5ZU0-nCZ06-52" value="p &amp;gt;= 0.05" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=15;fontFamily=Lucida Console;fontColor=#1D3557;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-850" y="800" width="100" height="20" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
